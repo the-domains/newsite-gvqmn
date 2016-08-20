@@ -6,9 +6,9 @@ color:
   saturation: 0.3731035045348108
   rhythmicContrast: 0.9517738476861268
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 name: NewSite

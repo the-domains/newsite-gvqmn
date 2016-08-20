@@ -1,0 +1,14 @@
+layout_spectrum: 0.8318196064792573
+typography_spectrum: 0.8487623855471611
+color:
+  brandStrength: 0.2793838744983077
+  lightness: 0.3317519419360906
+  saturation: 0.3731035045348108
+  rhythmicContrast: 0.9517738476861268
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: NewSite
